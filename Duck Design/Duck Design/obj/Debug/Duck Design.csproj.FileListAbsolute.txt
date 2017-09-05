@@ -1,0 +1,6 @@
+c:\users\jordiantonio\documents\visual studio 2015\Projects\Duck Design\Duck Design\bin\Debug\Duck Design.exe.config
+c:\users\jordiantonio\documents\visual studio 2015\Projects\Duck Design\Duck Design\bin\Debug\Duck Design.exe
+c:\users\jordiantonio\documents\visual studio 2015\Projects\Duck Design\Duck Design\bin\Debug\Duck Design.pdb
+c:\users\jordiantonio\documents\visual studio 2015\Projects\Duck Design\Duck Design\obj\Debug\Duck Design.csprojResolveAssemblyReference.cache
+c:\users\jordiantonio\documents\visual studio 2015\Projects\Duck Design\Duck Design\obj\Debug\Duck Design.exe
+c:\users\jordiantonio\documents\visual studio 2015\Projects\Duck Design\Duck Design\obj\Debug\Duck Design.pdb

@@ -1,0 +1,13 @@
+D:\2Computer science\Nodejs\Factory pattern\Factory pattern\bin\Debug\Factory pattern.exe.config
+D:\C#\projects\DesPatt\Factory pattern\Factory pattern\bin\Debug\Factory pattern.exe.config
+D:\C#\projects\DesPatt\Factory pattern\Factory pattern\bin\Debug\Factory pattern.exe
+D:\C#\projects\DesPatt\Factory pattern\Factory pattern\bin\Debug\Factory pattern.pdb
+D:\C#\projects\DesPatt\Factory pattern\Factory pattern\obj\Debug\Factory pattern.csprojResolveAssemblyReference.cache
+D:\C#\projects\DesPatt\Factory pattern\Factory pattern\obj\Debug\Factory pattern.exe
+D:\C#\projects\DesPatt\Factory pattern\Factory pattern\obj\Debug\Factory pattern.pdb
+E:\2Computer science\DesPatt\Factory pattern\Factory pattern\bin\Debug\Factory pattern.exe.config
+E:\2Computer science\DesPatt\Factory pattern\Factory pattern\obj\Debug\Factory pattern.exe
+E:\2Computer science\DesPatt\Factory pattern\Factory pattern\obj\Debug\Factory pattern.pdb
+E:\2Computer science\DesPatt\Factory pattern\Factory pattern\bin\Debug\Factory pattern.exe
+E:\2Computer science\DesPatt\Factory pattern\Factory pattern\bin\Debug\Factory pattern.pdb
+E:\2Computer science\DesPatt\Factory pattern\Factory pattern\obj\Debug\Factory pattern.csprojResolveAssemblyReference.cache
